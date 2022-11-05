@@ -1,5 +1,5 @@
 <RCC>
     <qresource prefix="/">
-        <file>Yuumi.ico</file>
+        <file>yuumi.ico</file>
     </qresource>
 </RCC>

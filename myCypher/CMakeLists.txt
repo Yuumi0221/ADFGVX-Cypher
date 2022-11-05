@@ -22,6 +22,7 @@ set(PROJECT_SOURCES
         adgfvxalgo.h
         adgfvxalgo.cpp
         img.qrc
+        icon.rc
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
