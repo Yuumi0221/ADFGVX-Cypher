@@ -4,9 +4,9 @@
 
 ```
 ├─myCypher
-│      adgfvxalgo.cpp	// 密码类
+│      adgfvxalgo.cpp		// 密码类
 │      adgfvxalgo.h		// 密码头文件
-│      CMakeLists.txt	// CMakeList
+│      CMakeLists.txt		// CMakeList
 │      main.cpp			// 主程序
 │      widget.cpp		// 界面程序
 │      widget.h			// 界面头文件
