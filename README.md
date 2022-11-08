@@ -3,6 +3,9 @@
 该程序为ADFGVX密码的实现，已上传[Github](https://github.com/Yuumi0221/ADFGVX-Cypher)。重要文件结构如下：
 
 ```
+CODE
+│  README.md		// 此文件
+│
 ├─myCypher
 │      adgfvxalgo.cpp		// 密码类
 │      adgfvxalgo.h		// 密码头文件
@@ -10,10 +13,10 @@
 │      main.cpp			// 主程序
 │      widget.cpp		// 界面程序
 │      widget.h			// 界面头文件
+│
 └─release
-    │  ChangeAlphabet.txt	// 预留的密码表更改文件
-    │  myCypher.exe		// 可执行程序
-    │  README.md		// 此文件
+       ChangeAlphabet.txt	// 预留的密码表更改文件
+       myCypher.exe		// 可执行程序
 ```
 
 
